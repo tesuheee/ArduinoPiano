@@ -1,0 +1,12 @@
+C:\Users\acer\Documents\Visual Studio 2013\Projects\ArduinoPiano\ArduinoPiano\bin\Release\ArduinoPiano.exe.config
+C:\Users\acer\Documents\Visual Studio 2013\Projects\ArduinoPiano\ArduinoPiano\bin\Release\ArduinoPiano.exe
+C:\Users\acer\Documents\Visual Studio 2013\Projects\ArduinoPiano\ArduinoPiano\bin\Release\ArduinoPiano.pdb
+C:\Users\acer\Documents\Visual Studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Release\ArduinoPiano.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Release\ArduinoPiano.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Release\ArduinoPiano.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Release\ArduinoPiano.exe
+C:\Users\acer\Documents\Visual Studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Release\ArduinoPiano.pdb
+C:\Users\acer\documents\visual studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Release\ArduinoPiano.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ArduinoPiano\ArduinoPiano\bin\Release\ArduinoPiano.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ArduinoPiano\ArduinoPiano\obj\Release\ArduinoPiano.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ArduinoPiano\ArduinoPiano\obj\Release\ArduinoPiano.pdb

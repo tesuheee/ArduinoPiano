@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2013\Projects\ArduinoPiano\ArduinoPiano\bin\Debug\ArduinoPiano.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\ArduinoPiano\ArduinoPiano\bin\Debug\ArduinoPiano.exe
+c:\users\acer\documents\visual studio 2013\Projects\ArduinoPiano\ArduinoPiano\bin\Debug\ArduinoPiano.pdb
+c:\users\acer\documents\visual studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Debug\ArduinoPiano.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Debug\ArduinoPiano.Form1.resources
+c:\users\acer\documents\visual studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Debug\ArduinoPiano.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Debug\ArduinoPiano.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Debug\ArduinoPiano.exe
+c:\users\acer\documents\visual studio 2013\Projects\ArduinoPiano\ArduinoPiano\obj\Debug\ArduinoPiano.pdb
